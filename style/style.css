@@ -42,10 +42,10 @@ nav ul{
 }
 
 .icon-ila{
-    width: 500px;
-    border: 1px solid black;
+    width: 250px;
+    
     border-radius: 280px;
-    margin: 30px 304px;
+    margin: 30px 436px;
 }
 
 .main-title{
@@ -54,8 +54,66 @@ nav ul{
     margin: 20px;
     text-align: center;
 }
+.line{
+    width: 150px;
+    background-color: #FFDE16;
+    height: 2px;
+    margin: 10px 478px;
+    border-radius: 15px;
+}
 
+/* finished */
 
+/* aghwera */
+.aghwera{
+    width: 300px;
+    height: 200px;
+    /* background-color: black; */
+}
+.photo-agwera1{
+    width: 300px;
+    margin: 20px;
+    padding: 10px;
+    /* height: 100%; */
+}
 
+.photo-agwera2{
+    width: 300px;
+    margin: 20px;
+    padding: 10px;
+    /* height: 100%; */
+}
 
+.photo-agwera3{
+    width: 300px;
+    margin: 20px;
+    padding: 10px;
+    /* height: 100%; */
+}
+
+.photo-agwera4{
+    width: 300px;
+    margin: 20px;
+    padding: 10px;
+    /* height: 100%; */
+}
+
+.photo-agwera5{
+    width: 300px;
+    margin: 20px;
+    padding: 10px;
+    /* height: 100%; */
+}
+
+.photo-agwera6{
+    width: 300px;
+    margin: 20px;
+    padding: 10px;
+    /* height: 100%; */
+}
+
+.aghwera-wrapper{
+    display: flex;
+    flex-wrap: wrap;
+}
 /* finished */
