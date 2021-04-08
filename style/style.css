@@ -41,6 +41,19 @@ nav ul{
     width: 100%;
 }
 
+.icon-ila{
+    width: 500px;
+    border: 1px solid black;
+    border-radius: 280px;
+    margin: 30px 304px;
+}
+
+.main-title{
+    font-size: 20px;
+    color: #283891;
+    margin: 20px;
+    text-align: center;
+}
 
 
 
