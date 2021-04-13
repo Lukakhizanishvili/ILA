@@ -174,5 +174,12 @@ nav ul{
     right: 10%;
     opacity: 0.5;
 }
-
+.third-div-last-section{
+    position: relative;
+    margin-left: 15px;
+}
+.four-div-last-section{
+    position: relative;
+    margin-left: 15px;
+}
 /* finish */
