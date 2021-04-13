@@ -162,3 +162,17 @@ nav ul{
 
 
 /* finish */
+
+/* bolo sectia */
+.last-section{
+    width: 100%;
+    height: 500px;
+}
+.last-section img{
+    width: 500px;
+    position:absolute;
+    right: 10%;
+    opacity: 0.5;
+}
+
+/* finish */
